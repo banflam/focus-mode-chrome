@@ -25,7 +25,7 @@
     "_execute_action": {
       "suggested_key": {
         "default": "Ctrl+B",
-        "mac": "Command-B"
+        "mac": "Command+B"
       }
     }
   }
